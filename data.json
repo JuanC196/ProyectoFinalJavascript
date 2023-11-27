@@ -1,0 +1,9 @@
+[
+    {"title": "McBook pro", "price": 1200, "picture": "https://images.unsplash.com/photo-1539688831660-2ca435ee5a1a?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+    {"title": "Ipad Apple 2022", "price": 1500, "picture": "https://images.unsplash.com/photo-1590252973641-1352f1a8885e?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+    {"title": "Iphone Pro Max 15", "price": 950, "picture": "https://images.unsplash.com/photo-1677563277026-17a254ea02f7?auto=format&fit=crop&q=80&w=1364&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+    {"title": "Apple Watch", "price": 150, "picture": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?auto=format&fit=crop&q=80&w=1365&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+    {"title": "Airpods", "price": 50, "picture": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+    {"title": "Apple TV", "price": 100, "picture": "https://images.unsplash.com/photo-1592042221673-7320147c7482?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"}
+
+]

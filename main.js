@@ -1,3 +1,31 @@
+//Traer info del array principal en el JSON
+
+document.addEventListener("DOMContentLoaded", function () {
+	//llamar el archivo JSON
+	fetch('data.json')
+		.then(response => response.json())
+		.then(data => {
+			// traer los datos del JSON y imprimirlos en el HTML
+			const productosContainer = document.getElementById('productos-container');
+
+			data.forEach(producto => {
+				const productoDiv = document.createElement('div');
+				productoDiv.classList.add('item');
+				productoDiv.innerHTML = `
+					<figure>
+						<img src="${producto.picture}" alt="producto">
+					</figure>
+					<div class="info-product">
+						<center><h2>${producto.title}</h2></center>				
+						<center><p class="price">$${producto.price}</p></center>
+						<button class="btn-add-cart">Añadir al carrito</button>
+					</div>
+				`;
+				productosContainer.appendChild(productoDiv);
+			});
+		})
+});
+
 //traer elementos de la API 
 
 //variable donde se almacenaran los datos
